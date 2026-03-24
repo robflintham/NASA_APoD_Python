@@ -8,7 +8,6 @@ A lightweight Python utility designed to automatically fetch the **NASA Astronom
 
 ## 🌟 Features
 * **Daily Updates:** Automatically grabs the latest space imagery from NASA's official API.
-* **Smart Content Filtering:** Automatically detects if the daily feature is a video (MP4/YouTube) and skips the update to maintain your current high-quality wallpaper.
 * **High-Resolution Support:** Prioritizes HD imagery (`hdurl`) with an automatic fallback to standard resolution if HD is unavailable.
 * **Fail-safe:** It NASA launches a video as the APoD, it will not be set as Wallpaper, APoD will be ignored.
 * **Silent Background Operation:** Runs as a `.pyw` process, meaning no console windows or pop-ups will interrupt your work.
