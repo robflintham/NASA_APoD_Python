@@ -1,0 +1,1 @@
+py -m PyInstaller --noconsole --onefile --name NASA_APoD_Wallpaper app.pyw
